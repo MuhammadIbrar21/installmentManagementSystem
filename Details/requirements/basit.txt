@@ -1,0 +1,17 @@
+1. Account No.                           --done                                  G1, G2 (Guarantee)      --done
+2. customer Name/father name  --done 	                	  Name, Address, Phone   --done
+3. Contact No.                           --done
+4. Address            		    --done
+5. Official address  		    --done
+6. Product Name		    --done
+7. Product Brand Name         	    --done
+8. Total Amount  		    --done
+9. Advance		    --done
+10. Remaining Amount
+11. Monthly Installment
+12. Date & Time
+13. Add                                     --done
+14. Update		    --done
+15. Clear			    --done
+16. Delete		    --done
+17. Print able A4
